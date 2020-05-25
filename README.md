@@ -14,4 +14,4 @@ tast check <br>
   * *test2<br>
     * *test3<br>
 picture test：<br>
-![] (https://github.com/zddd312/zddd/tree/master/images/pic01.jpg)
+![test] (https://github.com/zddd312/zddd/blob/master/images/avatar.jpg)
